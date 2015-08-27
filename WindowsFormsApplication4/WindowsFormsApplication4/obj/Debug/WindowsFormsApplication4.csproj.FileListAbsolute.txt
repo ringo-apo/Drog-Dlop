@@ -1,0 +1,9 @@
+D:\data\programing\desktop\ドラッグ＆ドロップ\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\data\programing\desktop\ドラッグ＆ドロップ\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\data\programing\desktop\ドラッグ＆ドロップ\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\data\programing\desktop\ドラッグ＆ドロップ\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\data\programing\desktop\ドラッグ＆ドロップ\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\data\programing\desktop\ドラッグ＆ドロップ\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\data\programing\desktop\ドラッグ＆ドロップ\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\data\programing\desktop\ドラッグ＆ドロップ\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\data\programing\desktop\ドラッグ＆ドロップ\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
